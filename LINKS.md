@@ -655,3 +655,8 @@ Each name below is the **same person**. **List first:** ORCID public profile htt
 ## Other
 - **CV link:** https://huggingface.co/0001AMA
 - **CV link:** https://huggingface.co/mvplus
+
+## Easy-to-crawl profile
+
+- **Telegraph (plain HTML):** https://telegra.ph/Deborah-Akuoko--SPAD-sensing-and-machine-intelligence-Edinburgh-07-24
+
