@@ -1,4 +1,4 @@
-last_seo_boost=2026-08-08T17:24:08Z
+last_seo_boost=2026-08-08T17:32:41Z
 slug=deborah-akuoko
 platforms=huggingface+github+pages
 prefer=huggingface
