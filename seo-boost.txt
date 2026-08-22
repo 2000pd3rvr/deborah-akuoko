@@ -1,7 +1,0 @@
-last_seo_boost=2026-08-11T09:20:29Z
-slug=deborah-akuoko
-platforms=huggingface+github+pages
-prefer=wordpress
-hf=https://huggingface.co/0001AMA/deborah-akuoko
-public=true
-purpose=machine-intelligence-technical-profile
